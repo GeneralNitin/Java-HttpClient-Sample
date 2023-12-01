@@ -11,7 +11,7 @@ import lombok.Setter;
 @NoArgsConstructor
 @Getter
 @Setter
-class APIResponse {
+public class APIResponse {
     private int statusCode;
     private String message;
 }

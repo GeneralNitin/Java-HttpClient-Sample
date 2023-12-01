@@ -1,4 +1,4 @@
-package com.example.testjavacode.httpclientv2;
+package com.example.testjavacode.httpclient;
 
 import com.example.testjavacode.utility.AuthenticationType;
 

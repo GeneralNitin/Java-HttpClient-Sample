@@ -11,9 +11,7 @@ import java.net.URI;
 @NoArgsConstructor
 @Getter
 @Setter
-class OAuthDataModel {
+public class OAuthDataModel {
     private URI uri;
     private String accessToken;
 }
-
-
